@@ -1,0 +1,35 @@
+.maincolor{
+    color: #fcb900;
+}
+
+.serviceh{
+    background-color: #0000;
+}
+
+.serviceCard{
+    height: 25rem;
+   
+}
+
+
+
+.cardbtn{
+    border: none;
+  
+    background-color: #fcb900;
+    color: black;
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding: 8px 18px;
+    border-radius: 2px;
+}
+
+.cardbtn:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.fooot{
+    display: flex;
+    justify-content: space-between;
+    color: #fcb900;
+}

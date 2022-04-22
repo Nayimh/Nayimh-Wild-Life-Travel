@@ -1,11 +1,12 @@
 .banner {
     background-image: url('../../../Image/bg/bg.jpg');
     background-size: 99vw;
+    background-repeat: no-repeat;
     object-fit: cover;
     top: 0;
     right: 0;
     width: 100vw;
-    min-height: 90vh;
+    min-height: 100vh;
    overflow: hidden;
     display: flex;
     justify-content: space-between;

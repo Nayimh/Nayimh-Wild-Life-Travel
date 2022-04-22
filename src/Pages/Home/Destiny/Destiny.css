@@ -1,0 +1,14 @@
+.disc{
+   
+   height: 30vh;
+}
+
+.disc img{
+    width: 100%;
+   height: 30vh;
+   object-fit: cover;
+}
+
+.dest{
+  background-color: #ffedba;
+}

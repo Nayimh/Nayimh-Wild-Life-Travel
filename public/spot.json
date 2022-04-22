@@ -1,0 +1,145 @@
+[
+    {
+        "id" : 1,
+        "img": "https://i.ibb.co/LtNQ1Fx/img.jpg",
+        "title": "Magical Maldives",
+        "person": "Chrish Nolan",
+        "desc": "At Experience Travel Group, we hope to help travellers unlock the true magic of the Maldives. Our experts know where to find the best of the best hotels.",
+        "type": "Family Trip",
+        "price": "2700",
+        "location": "Maldives",
+        "time": "5 days"
+    },
+    {
+        "id" : 2,
+        "img": "https://i.ibb.co/sJ6VMDK/img1.jpg",
+        "title": "A guide to Lisbon",
+        "person": "Ashikur Rahman",
+        "desc": "If you are heading to Portugal, chances are you are flying into Lisbon? Even if you are insistent on heading south to the likes of Sagres, Lagos.",
+        "type": "Couple Trip",
+        "price": "1800",
+        "location": "Lisbon",
+        "time": "3 days"
+    },
+    {
+        "id" : 3,
+        "img": "https://i.ibb.co/n3PpzqH/img2.jpg",
+        "title": "Romantic Places in Kashmir",
+        "person": "Hasibul Islam",
+        "desc": "The most picturesque valley of India, Kashmir is the heaven on earth that all of us need to visit at least once in a lifetime! The Kashmir Blog.",
+        "type": "Honeymoon Trip",
+        "price": "2400",
+        "location": "Kashmir",
+        "time": "4 days"
+    },
+    {
+        "id" : 4,
+        "img": "https://i.ibb.co/q1mJ0nd/img3.jpg",
+        "title": "Cappadocia Hot Air Balloon",
+        "person": "Nayim Hasan",
+        "desc": "The Cappadocia Hot Air Balloon in Turkey is one of the top bucket list items in the whole travel world. Often this stuff can be a little overrated.",
+        "type": "Group Trip",
+        "price": "3200",
+        "location": "Cappadocia",
+        "time": "7 days"
+    },
+    {
+        "id" : 5,
+        "img": "https://i.ibb.co/ZTCsRdZ/img4.jpg",
+        "title": "A WEEKEND GUIDE TO LISBON",
+        "person": "John Smith",
+        "desc": "Lisbon has recently been gaining popularity on social media and has also been attracting a lot of expats as a newly established hub for tech startups.",
+        "type": "Solo Tour",
+        "price": "2350",
+        "location": "Lisbon",
+        "time": "3 days"
+    },
+    {
+        "id" : 6,
+        "img": "https://i.ibb.co/Vt2FqCy/img5.jpg",
+        "title": "Explore Italy",
+        "person": "Adam White",
+        "desc": "From its vibrant cities to the gorgeous Italian lakes and coast, the landscapes will get you first. And then there's the food and culture.",
+        "type": "Summer Trip",
+        "price": "2800",
+        "location": "Italy",
+        "time": "4 days"
+    },
+    {
+        "id" : 7,
+        "img": "https://i.ibb.co/H7LmTr6/img6.jpg",
+        "title": "One day in Mykonos",
+        "person": "Nayim Hasan",
+        "desc": "one-day itinerary in Mykonos that will ensure that you get the most out of your time on 'the island of the winds.Few places on earth can rival the incredible history.",
+        "type": "Weekeng Trip",
+        "price": "400",
+        "location": "Mykonos",
+        "time": "1 day"
+    },
+    {
+        "id" : 8,
+        "img": "https://i.ibb.co/HGfKBLX/img7.jpg",
+        "title": "exploring frozen lake",
+        "person": "Joanne Owen",
+        "desc": "Slicing a north-south swathe through the mountains and coniferous snow forests of Siberia, visiting Russia's Lake Baikal.Tour Lake Baikal with any guide.",
+        "type": "Group Trip",
+        "price": "2400",
+        "location": "Siberia",
+        "time": "3 days"
+    },
+    {
+        "id" : 9,
+        "img": "https://i.ibb.co/fdzSdDF/img8.jpg",
+        "title": "CHINA TRAVEL GUIDE",
+        "person": "Tahir Ahmed",
+        "desc": "China is a country full of rich history and culture, making it one of the most fascinating places in the world! This amazing trip offers a once in a lifetime opportunity.",
+        "type": "Solo Tour",
+        "price": "1500",
+        "location": "SHAANXI",
+        "time": "2 days"
+    },
+    {
+        "id" : 10,
+        "img": "https://i.ibb.co/dLFsLw1/img9.jpg",
+        "title": "Venice Travel Blog",
+        "person": "Cheryl Imboden",
+        "desc": "Staying in private accommodation has a long history in Venice.In the 19th Century, the city was like flypaper for artists, aristocrats, and cultural strivers from countries.",
+        "type": "Group Trip",
+        "price": "3600",
+        "location": "Venice",
+        "time": "7 days"
+    },
+    {
+        "id" : 11,
+        "img": "https://i.ibb.co/6NZ0KDH/img10.jpg",
+        "title": "THAILAND TRAVEL GUIDE",
+        "person": "Nadir Aksar",
+        "desc": "Thailand was the first destination I decided to travel to solo. I island-hopped, explored Bangkok, and, as a young backpacker, ticked off a big bucket list.",
+        "type": "Solo Trip",
+        "price": "3200",
+        "location": "Thailand",
+        "time": "7 days"
+    },
+    {
+        "id" : 12,
+        "img": "https://i.ibb.co/ZTCsRdZ/img4.jpg",
+        "title": "Westmoreland Parish",
+        "person": "Ramon Starlin",
+        "desc": "St. Landry Parish is a rural, heritage destination in South Central Louisiana, a place with Cajun spirit and Creole soul. Her people are resourceful, spiritual.",
+        "type": "Couple Trip",
+        "price": "3450",
+        "location": "Parish",
+        "time": "4 days"
+    },
+    {
+        "id" : 13,
+        "img": "https://i.ibb.co/bsZ4G72/img12.jpg",
+        "title": "Trip to Moscow",
+        "person": "Farhan Sabbir",
+        "desc": "The Moscow Metro is a great transport network that is very helpful when exploring the city with a time limit. It also impresses with great architecture in many stations.",
+        "type": "Group Trip",
+        "price": "2860",
+        "location": "Moscow",
+        "time": "5 days"
+    }
+]

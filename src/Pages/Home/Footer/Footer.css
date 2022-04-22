@@ -1,0 +1,21 @@
+.footer{
+    width: 100vw;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 100px 0 30px;
+    letter-spacing: 2px;
+}
+
+.element{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;;
+
+}
+
+.col{
+    flex-basis: 25%;
+    padding: 10px;
+}
+

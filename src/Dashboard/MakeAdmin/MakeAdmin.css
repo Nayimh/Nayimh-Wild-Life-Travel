@@ -1,0 +1,16 @@
+.newbtn{
+    border: 2px solid #fcb900;
+    background-color: #fcb900;
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 7px 20px;
+    /* box-shadow: rgba(223, 206, 206, 0.158) 0px 10px 36px 0px, rgba(41, 40, 40, 0.06) 0px 0px 0px 1px; */
+    border-radius: 2px;
+}
+
+.newbtn:hover{
+    background-color: #000;
+    color: #fcb900;
+    border: 2px solid #fcb900;
+}

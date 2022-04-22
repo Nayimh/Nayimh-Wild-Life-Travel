@@ -8,6 +8,9 @@ import SubExplore from '../Explore/SubExplore';
 import Ratings from '../Ratings/Ratings';
 import Partner from '../Partner/Partner';
 import AboutUs from '../AboutUs/AboutUs';
+import Footer from '../Footer/Footer';
+import Destiny from '../Destiny/Destiny';
+import HomeService from '../HomeService/HomeService';
 
 
 const Home = () => {
@@ -17,11 +20,14 @@ const Home = () => {
             <Header />
             <Banner />
             <SubBanner />
+            <HomeService/>
+            <AboutUs />
+            <Destiny/>
             <Explore />
             <SubExplore />
             <Ratings />
             <Partner />
-            <AboutUs/>
+            <Footer/>
         </div>
     );
 };

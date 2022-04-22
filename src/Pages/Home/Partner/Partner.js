@@ -17,13 +17,14 @@ const Partner = () => {
     return (
         <div className='partner mt-5 p-5 mb-5'>
             <div className='container'>
+                <h3 className='maincolor text-center mb-5'>OUR PARTNERS</h3>
                 <div className="row text-center">
-                    <div data-aos="zoom-in-up" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '130px', marginBottom: "20px"}} src={ logo } alt="" /> </div>
-                    <div data-aos="zoom-in-down" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '100%', marginBottom: "20px"}} src={ logo1 } alt="" /> </div>
-                    <div data-aos="zoom-in-up" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo2 } alt="" /> </div>
-                    <div data-aos="zoom-in-down" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo3 } alt="" /> </div>
-                    <div data-aos="zoom-in-up" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo4 } alt="" /> </div>
-                    <div data-aos="zoom-in-down" data-aos-duration="1500" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo5 } alt="" /> </div>
+                    <div data-aos="zoom-in-up" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '130px', marginBottom: "20px"}} src={ logo } alt="" /> </div>
+                    <div data-aos="zoom-in-down" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '100%', marginBottom: "20px"}} src={ logo1 } alt="" /> </div>
+                    <div data-aos="zoom-in-up" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo2 } alt="" /> </div>
+                    <div data-aos="zoom-in-down" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo3 } alt="" /> </div>
+                    <div data-aos="zoom-in-up" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo4 } alt="" /> </div>
+                    <div data-aos="zoom-in-down" data-aos-duration="1800" className='col-lg-2 md-2 sm-6'> <img style={{ width: '120px', marginBottom: "20px"}} src={ logo5 } alt="" /> </div>
                   
                 </div>
             </div>

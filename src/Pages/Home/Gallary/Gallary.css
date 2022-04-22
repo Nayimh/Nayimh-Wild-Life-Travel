@@ -1,0 +1,18 @@
+.gdiv{
+    background-color: #FFF9C4;
+}
+
+.glr{
+    padding: 8px 10px;
+    background-color: #cfd8dc;
+    
+}
+.gimg{
+    
+    transition: .5s ease-in-out;
+}
+
+.gimg:hover{
+    transform: rotate(-1deg);
+    /* transform: scale(1.05); */
+}

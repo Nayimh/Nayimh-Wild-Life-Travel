@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './SubBanner.css';
 
 import map from '../../../Image/icon/map.png';
@@ -7,14 +7,22 @@ import tent from '../../../Image/icon/tent.png';
 import active from '../../../Image/icon/activity.png';
 import { Card } from 'react-bootstrap';
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 
 const SubBanner = () => {
+
+ useEffect(() => {
+  AOS.init();
+})
+
     return (
         <div className='sub'>
             <div className="container">
                 <div className='row'>
-                    <div className='col-lg-3 col-md-3 col-sm-2'>
-                    <Card className='card'>
+                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <Card data-aos="zoom-in-down" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ map} />
     <Card.Body>
       <Card.Title>Travel & Tour</Card.Title>
@@ -27,9 +35,9 @@ const SubBanner = () => {
     </Card.Footer>
   </Card>
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-2'>
+                    <div className='col-lg-3 col-md-3 col-sm-6'>
 
-                    <Card className='card'>
+                    <Card data-aos="zoom-in-up" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ tent} />
     <Card.Body>
       <Card.Title>Camping</Card.Title>
@@ -43,8 +51,8 @@ const SubBanner = () => {
   </Card>
 
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-2'>
-                    <Card className='card'>
+                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <Card data-aos="zoom-in-down" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ boat} />
     <Card.Body>
       <Card.Title>adventure Tour</Card.Title>
@@ -58,8 +66,8 @@ const SubBanner = () => {
   </Card>
 
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-2'>
-                    <Card className='card'>
+                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <Card data-aos="zoom-in-up" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ active} />
     <Card.Body>
       <Card.Title>Outbond Activity</Card.Title>

@@ -16,7 +16,7 @@ const Ratings = () => {
   
  
     useEffect(() => {
-        fetch('https://serene-everglades-89059.herokuapp.com/ratings')
+        fetch('https://whispering-retreat-24780.herokuapp.com/reviews')
             .then(res => res.json())
             .then(dt => setRatings(dt))
     }, [])
