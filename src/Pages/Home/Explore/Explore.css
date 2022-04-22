@@ -1,0 +1,12 @@
+.explore{
+    background-image: url('../../../Image//bg//bg2.jpg');
+    background-size: 100vw;
+    object-fit: cover;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    min-height: 90vh;
+   
+    opacity: .9;
+    
+}

@@ -1,0 +1,16 @@
+.aimg{
+    width: 100%;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: #e2dddd;
+    transform: rotate(-7deg);
+}
+.aimg2{
+    margin-top: -5rem;
+    margin-left: 10rem;
+    width: 50%;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: #e2dddd;
+    transform: rotate(10deg);
+}

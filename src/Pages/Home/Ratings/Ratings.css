@@ -1,0 +1,14 @@
+.rcard{
+    
+    border: 1px solid white;
+}
+
+.rcard:hover{
+    box-shadow: 6px 2px 15px black;
+    border: 1px solid black;
+}
+
+.rbg{
+    /* box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 12px; */
+    background-color: rgb(255, 255, 248);
+}
