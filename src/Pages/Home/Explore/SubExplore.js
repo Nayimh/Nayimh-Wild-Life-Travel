@@ -15,7 +15,7 @@ const SubExplore = () => {
         <div className='subexprole mb-5'>
             <div className="container">
             <div className='row'>
-                    <div className='col-lg-4 col-md-4 col-sm-12'>
+                    <div className='col-lg-4 col-md-6 col-sm-12'>
                     <Card data-aos="zoom-in-right" data-aos-duration="1500" className='ecard'>
             <Card.Img variant="top" src={ img3} />
     <Card.Body>
@@ -29,7 +29,7 @@ const SubExplore = () => {
     </Card.Footer>
   </Card>
                     </div>
-                    <div className='col-lg-4 col-md-4 col-sm-12'>
+                    <div className='col-lg-4 col-md-6 col-sm-12'>
 
                     <Card data-aos="zoom-in-down" data-aos-duration="1500" className='ecard'>
             <Card.Img variant="top" src={ img1} />
@@ -45,7 +45,7 @@ const SubExplore = () => {
   </Card>
 
                     </div>
-                    <div className='col-lg-4 col-md-4 col-sm-12'>
+                    <div className='col-lg-4 col-md-6 col-sm-12'>
                     <Card data-aos="zoom-in-left" data-aos-duration="1500" className='ecard'>
             <Card.Img variant="top" src={ img2} />
     <Card.Body>

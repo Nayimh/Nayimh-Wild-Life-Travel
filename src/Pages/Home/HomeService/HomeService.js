@@ -44,7 +44,7 @@ const HomeService = () => {
                       <Placeholder.Button variant="primary" xs={6} />
                     </Card.Body>
                   </Card> :
-                        details.slice(0,8).map(detail => <div className='col-lg-4 col-md-4 col-sm-12' key={detail?.name}>
+                        details.slice(0,8).map(detail => <div className='col-lg-4 col-md-6 col-sm-12' key={detail?.name}>
                             <Card data-aos="zoom-in-right" data-aos-duration="1800" className='serviceCard'>
                             <Card.Img variant="top" src={ detail?.img } />
     <Card.Body>

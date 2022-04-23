@@ -29,7 +29,7 @@ const Ratings = () => {
         <div className='container mt-5'>
             <div className='row'>
             {ratings?.map(rating => 
-            <div className='col-lg-3 col-md-4 col-sm-6 col-xs-12 '>
+            <div className='col-lg-3 col-md-6 col-sm-12 col-xs-12 '>
                     <Card data-aos="zoom-in-right" data-aos-duration="2000" className='rcard  mb-5' >     
                     <Card.Img className='mx-auto mt-1' style={{width: "100px", height: "100px" , borderRadius: "100%"}}  variant="top" src={rating?.img} />
  

@@ -21,7 +21,7 @@ const SubBanner = () => {
         <div className='sub'>
             <div className="container">
                 <div className='row'>
-                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <div className='col-lg-3 col-md-6 col-sm-12'>
                     <Card data-aos="zoom-in-down" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ map} />
     <Card.Body>
@@ -35,7 +35,7 @@ const SubBanner = () => {
     </Card.Footer>
   </Card>
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <div className='col-lg-3 col-md-6 col-sm-12'>
 
                     <Card data-aos="zoom-in-up" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ tent} />
@@ -51,7 +51,7 @@ const SubBanner = () => {
   </Card>
 
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <div className='col-lg-3 col-md-6 col-sm-12'>
                     <Card data-aos="zoom-in-down" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ boat} />
     <Card.Body>
@@ -66,7 +66,7 @@ const SubBanner = () => {
   </Card>
 
                     </div>
-                    <div className='col-lg-3 col-md-3 col-sm-6'>
+                    <div className='col-lg-3 col-md-6 col-sm-12'>
                     <Card data-aos="zoom-in-up" data-aos-duration="1500" className='card'>
             <Card.Img variant="top" src={ active} />
     <Card.Body>

@@ -39,7 +39,7 @@ const DashboardHome = (props) => {
     };
   
     const drawer = (
-      <div className='dashbg'>
+      <div  className='dashbg'>
         
         
 
