@@ -30,13 +30,14 @@ const MakeAdmin = () => {
             .then(res => res.json())
             .then(data => {
                 if (data.modifiedCount) {
-                    setEmail('');
-                    // alert('New admin successfully created.');
+                    
+                  
                     notify();
                 } else {
                     notify2();
                 }
             })
+            e.target.reset();
         e.preventDefault();
     }
 

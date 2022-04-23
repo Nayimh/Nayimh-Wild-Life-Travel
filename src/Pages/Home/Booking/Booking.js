@@ -57,7 +57,7 @@ const Booking = () => {
         const price = details?.price;
         const status = "Pending";
         const ordersInfo = {
-          foodId: productId,
+          packageId: productId,
           name,
           desc,
           person,

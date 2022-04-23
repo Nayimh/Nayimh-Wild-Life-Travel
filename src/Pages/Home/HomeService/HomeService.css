@@ -25,11 +25,15 @@
 }
 
 .cardbtn:hover{
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
 }
 
 .fooot{
     display: flex;
     justify-content: space-between;
     color: #fcb900;
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: 1px;
+ 
 }

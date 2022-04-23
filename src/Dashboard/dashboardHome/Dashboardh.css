@@ -1,0 +1,17 @@
+.dashLink{
+    text-decoration: none;
+    color: #f9b900;
+    
+}
+
+.dashLink:hover{
+    color: #f9b900;
+}
+
+
+
+.dashbg{
+    background-color: black;
+    color: #f9b900;
+    
+}
