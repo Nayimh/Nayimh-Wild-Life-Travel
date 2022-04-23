@@ -112,11 +112,11 @@ const ManageAllOrders = () => {
                     <td>{pl.phone}</td>
                     <td>{pl.status === "Pending" ? <p>Pending</p> : <p>Accepted</p> }</td>
                     <td className="text-center">
-                     { pl.status === "Pending" && <button onClick={() => handleUpdate(pl._id)} className="btn btn-success me-2" ><TiTick/></button>}
+                     { pl.status === "Pending" && <button onClick={() => handleUpdate(pl._id)} className="btn btn-success " ><TiTick/></button>}
                         
                          
                         
-                        <button className="btn btn-danger ms-2" onClick={() => handleDelete(pl._id)}><RiDeleteBin6Line/></button></td>
+                        <button className="btn btn-danger mt-2" onClick={() => handleDelete(pl._id)}><RiDeleteBin6Line/></button></td>
                 </tr>
             </tbody>
               )
